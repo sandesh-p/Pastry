@@ -1,7 +1,7 @@
 Pastry
 ======
 
-Simulation of the Pastry algorithm to determine the routing time (Number of hops)
+Simulation of the Pastry algorithm to determine the routing time (Number of hops) is "Log N" where 'N' is the number of Nodes
 
 All the information regarding this project can be found at:
 
